@@ -1,1 +1,0 @@
-https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/11/20/bored-of-mnist-lets-build-your-own-ocr-deep-learning-computer-vision-ai-using-microsoft-cntk-with-emnist-step-by-step-guide/
